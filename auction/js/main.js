@@ -15,7 +15,7 @@ var baseNames = new Array('Tanzir',
     'Meem Arafat Manab',
     'Mehedi hasan',
     'Md. Rofiqul Islam',
-    'N.S.M. Hasan al banna',
+    'N.S.M. Hasan al Banna',
     'Inzamam Toha',
     'Habibullah',
     'Md. Jahid Hasan',
@@ -32,7 +32,9 @@ var baseNames = new Array('Tanzir',
     'Golam Azrin',
     'Swasti Das',
     'Hashib Mahmud',
-    'Bishal Dey');
+    'Bishal Dey',
+    'Mahidul Islam Misbah',
+    'Humayun');
 
 //var baseNames= new Array('A','B');
 var names;
